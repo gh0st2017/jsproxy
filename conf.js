@@ -16,14 +16,14 @@ jsproxy_config({
       label: '演示服务-香港节点',
       lines: {
         // 主机:权重
-        'node-aliyun-hk-1.etherdream.com:8443': 1,
-        'node-aliyun-hk-2.etherdream.com:8443': 2,
+        'https://bluemango.tdx_9188817.workers.dev': 1,
+        'https://bluemango.tdx_9188817.workers.dev': 2,
       }
     },
     'demo-sg': {
       label: '演示服务-新加坡节点',
       lines: {
-        'node-aliyun-sg.etherdream.com:8443': 1,
+        'https://bluemango.tdx_9188817.workers.dev': 1,
       },
     },
     'mysite': {
